@@ -16,7 +16,8 @@ class ViewController: UIViewController {
  
     override func viewDidLoad() {
         super.viewDidLoad()
-          print("Clone has been completed and commiting to Push")
+        print("Cloned again and pushed by prem")
+          print("Clone has been completed and commiting to Push ")
 
         // Do any additional setup after loading the view, typically from a nib.
     }
