@@ -13,10 +13,11 @@ class ViewController: UIViewController {
     
     var name = "HELLO WORLD"
     
+ 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        print(name)
+          print("Clone has been completed and commiting to Push")
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
